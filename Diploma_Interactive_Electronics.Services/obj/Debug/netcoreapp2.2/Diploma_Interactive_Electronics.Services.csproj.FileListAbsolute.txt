@@ -1,0 +1,6 @@
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Services\bin\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.dll
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Services\bin\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Services.Contracts.dll
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Services\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Services.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Services\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Services.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Services\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Services.AssemblyInfoInputs.cache
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Services\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Services.AssemblyInfo.cs

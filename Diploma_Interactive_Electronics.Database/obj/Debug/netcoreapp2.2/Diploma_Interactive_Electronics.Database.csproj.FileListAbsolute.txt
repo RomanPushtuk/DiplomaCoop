@@ -1,0 +1,6 @@
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Database\bin\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.deps.json
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Database\bin\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.dll
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Database\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Database\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Database\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.AssemblyInfoInputs.cache
+C:\Users\User-PC\source\repos\Diploma_Interactive_Electronics\Diploma_Interactive_Electronics.Database\obj\Debug\netcoreapp2.2\Diploma_Interactive_Electronics.Database.AssemblyInfo.cs
