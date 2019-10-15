@@ -1,0 +1,43 @@
+<div class="row">
+    <form class="col s6" (ngSubmit)="submit()"> 
+        <input 
+            placeholder="Придумайте логин" 
+            id="login" 
+            type="text" 
+            class="validate"
+            [formControl]="login"
+            >
+        <label for="login">Логин</label>
+
+        <input 
+            placeholder="Придумайте пароль" 
+            id="password" 
+            type="text" 
+            class="validate"
+            [formControl]="password"
+            >
+        <label for="password">Пароль</label>
+
+        <input 
+            placeholder="Повторите пароль" 
+            id="confirmPassword" 
+            type="text" 
+            class="validate"
+            [formControl]="mail"
+            >
+        <label for="confirmPassword">Подтверждение пароля</label>
+
+        <input 
+            placeholder="Почта" 
+            id="mail" 
+            type="text" 
+            class="validate">
+        <label for="mail">Почта</label>
+
+        <div class="row">
+            <button class="waves-effect waves-light btn" type="submit" name="action">Submit
+                <i class="material-icons right">send</i>
+            </button>
+        </div>
+    </form>
+</div>

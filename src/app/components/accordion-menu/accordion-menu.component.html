@@ -1,0 +1,12 @@
+<div class="accordion">
+    <p>Основы электроники</p>
+    <ol>
+        <li class="topic" *ngFor="let lesson of lessons">
+            <a href="#">{{lesson.title}}</a>
+            <ul>
+                <li><a href="#">Теория</a><span>{{lesson.progress.theory.done}}/{{lesson.progress.theory.total}}</span></li>
+                <li><a href="#">Практика</a><span>{{lesson.progress.practice.done}}/{{lesson.progress.practice.total}}</span></li>
+            </ul>
+        </li>
+    </ol>
+</div>
